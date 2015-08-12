@@ -1,0 +1,1 @@
+ssserver -c ~/ss.json

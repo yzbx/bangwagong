@@ -1,0 +1,7 @@
+{
+	"server": "127.0.0.1"
+	"server_port":5000,
+	"password":"hello5000",
+	"timeout":100,
+	"method":"aes-256-cfb"
+}

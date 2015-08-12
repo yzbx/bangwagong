@@ -1,0 +1,15 @@
+{
+	"server": "192.243.113.196",
+	"local_address": "127.0.0.1",
+	"local_port": 1080,
+	"port_password": {
+		"443": "UZPbB1mJZa",
+		"5000": "helloyzbx",
+		"5001": "helloworld",
+	        "5002": "helloworld",
+		"5003": "helloworld"
+	},
+	"timeout": 300,
+	"method": "aes-256-cfb",
+	"fast_open": false
+}
