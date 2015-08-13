@@ -1,0 +1,2 @@
+pkill ssserver
+./ssMul.sh &
