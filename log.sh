@@ -1,1 +1,2 @@
-find / -name "*.log" 
+#find / -name "*.log" 
+less /var/log/shadowsocks.log
